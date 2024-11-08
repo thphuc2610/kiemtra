@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ClassDemo",
+      "request": "launch",
+      "mainClass": "ClassDemo",
+      "projectName": "csdl_demo_7e743e57"
+    },
+    {
+      "type": "java",
+      "name": "ClassDemo",
+      "request": "launch",
+      "mainClass": "ClassDemo",
+      "projectName": "csdl_demo_5bbdcf05"
+    },
+    {
+      "type": "java",
+      "name": "GUI",
+      "request": "launch",
+      "mainClass": "GUI",
+      "projectName": "csdl_demo_5bbdcf05"
+    },
+    {
+      "type": "java",
+      "name": "CSDL_DEMO",
+      "request": "launch",
+      "mainClass": "CSDL_DEMO",
+      "projectName": "csdl_demo_5bbdcf05"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "csdl_demo_5bbdcf05"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/SelfStudy/Java/SourceCode/csdl_demo/lib",
+      "program": "d:/SelfStudy/Java/SourceCode/csdl_demo/lib/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
